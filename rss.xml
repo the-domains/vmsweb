@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VMSWEB]]></title>
+        <description><![CDATA[VMSWEB]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 12:44:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Viktor Mayer-Schönberger is Professor of Internet Governance and Regulation at the University of Oxford.</p>]]></description>
+            <link>undefined6c00644a-150b-4c4a-abd8-6f79e4280043/index.html</link>
+            <guid isPermaLink="false">6c00644a-150b-4c4a-abd8-6f79e4280043</guid>
+            <pubDate>Wed, 17 Feb 2016 12:44:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
